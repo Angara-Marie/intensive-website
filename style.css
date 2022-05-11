@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+}
+body{
+    height: 100%;
+    background-color: rgb(230, 225, 225);
+    /* overflow: hidden; */
+}
+.container{
+    background-color: black;
+    margin: 5% 5%;
+}
+.header{
+    color: white;
+    margin-left: 20px;
+    margin-bottom: -27px;
+    font-size: 30px;
+}
+.nav-bar{
+    display: inline;
+    margin-top: 20px;
+    margin-left: 50px;
+
+}
+b{
+    color: rgb(255, 255, 255);
+}
+nav{
+    margin-left: 20%;
+}
+nav a{
+    text-decoration: none;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+}
+.log{
+   margin-left: 80%;
+   margin-top: -2%;
+   font-size: 15px;
+
+}
+.log a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+span{
+    color: rgb(114, 109, 109);
+    /* margin-top: -10%; */
+}
+.info{
+    margin-left: 9%;
+    margin-top: 5%;
+}
+.info h1{
+    font-size: 350%;
+}
+.info p{
+    color:rgb(255, 255, 255) ;
+    font-size: 130%;
+    margin-top: 2%;
+}
+
+.wording{
+    display: flex;
+}
+.image{
+    margin-left: 50%;
+    margin-top: -40%;
+}
+.find{
+    background-color:yellowgreen;
+    width: 120px;
+    height: 60px;
+    margin-left: 11%;
+    margin-top: 3%;
+}
+.wording{
+    margin-top: 3%;
+}
+.wording P{
+    color: grey;
+    font-size: 120%;
+}
+#span{
+    margin-top: -5%;
+}
+.images{
+    display: inline-flex;
+    margin-left: 6%;
+}
+.img1{
+    padding-top: 5%;
+}.img2{
+    padding-left: 8%;
+    padding-top: 1.5%;
+}
+.img3{
+   padding-bottom: 6%;
+   padding-left: 5%;
+   /* border: solid white; */
+}
